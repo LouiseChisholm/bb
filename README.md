@@ -1,5 +1,5 @@
 # Louise Chisholm
-I support and advocate for researchers who use computational and data sciences or digital technologies. I work to enspire and empower researchers to leverage the opportunities created by recent technological advances and the ever-increasing amounts of data available.
+I support and advocate for researchers who use computational and data sciences or digital technologies. I work to inspire and empower researchers to leverage the opportunities created by recent technological advances and the ever-increasing amounts of data available.
 
 Within the digital research infrastructure ecosystem, I work across boundaries and cultures such as:
 * research disciplines
@@ -10,7 +10,7 @@ Within the digital research infrastructure ecosystem, I work across boundaries a
  * developing strategy and funding proposals 
  * delivering governance and day-to-day operations
  * creating new communities and partnerships
- * facilitating knowledge exchange and *xxx*
+ * facilitating knowledge exchange and open science
  
 Together, open doors to research... new possibilities for research. 
 maximises the social and economic impact of digital research infrastructure investments 
