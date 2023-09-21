@@ -56,17 +56,17 @@ stages of their funding applications to EPSRC, STFC, NERC, MRC and BBSRC.
 spark collaborations across faculties e.g. AI, computational sciences
 
 
-I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Selected projects I contributed to include: 
+I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Projects that I contributed to include: 
 - STFC UK SKA Regional Centre (
 - Strategic Priorities Fund [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), which contirbutes to the Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) research programme.
 - EPSRC XXX and XXX (exascale)
-- Various grants supporting the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community.
-- EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1) - Prof Miguel Rodrigues, Department of Electronic Engineering  
+- Various grants supporting the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry
+- EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1). PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering 
 - EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
-- UKRI Future Leader Fellowships: [Dr Neil Oxtby](https://gtr.ukri.org/projects?ref=MR%2FS03546X%2F1) who is developing individualised artificial intelligence for medicine
-- UKRI funded Centre for Doctoral Training in [Foundational Artificial Intelligence](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd), UCL Computer Science
-- STFC Centre for Doctoral Training, [Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), UCL Astronomy and Physics
-- The French Government's Laboratory of Excellence (LabEx) program: [MEDALIS](https://ims.unistra.fr/medalis-en/), an interdisciplinary centre, as part of the University of Strasbourg, which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. 
+- UKRI Future Leader Fellowship: [Dr Neil Oxtby](https://gtr.ukri.org/projects?ref=MR%2FS03546X%2F1) who is developing individualised artificial intelligence for medicine.
+- UKRI Centre for Doctoral Training in [Foundational Artificial Intelligence](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd), PI: Prof David Barber, UCL Computer Science.
+- STFC Centre for Doctoral Training, [Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), PI: Prof Nikos Konstantinidis, UCL Astronomy and Physics.
+- The French Government's Laboratory of Excellence (LabEx) program: [MEDALIS](https://ims.unistra.fr/medalis-en/), an interdisciplinary centre, which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. PI: Prof Sylviane Muller, University of Strasbourg.
 
 
  
