@@ -56,5 +56,13 @@ stages of their funding applications to EPSRC, STFC, NERC, MRC and BBSRC.
 spark collaborations across faculties e.g. AI, computational sciences
 
 
+I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I contribute by coordinating and developing large-scale strategic bids. I facilitate the development of shared research programs, and write non-techincal propsoal sections and prepare research teams for interviews with grant review panels.  Successes include: 
+- STFC UK SKA Regional Centre (
+- Strategic Priorities Fund [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), which contirbutes to the Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) research programme.
+- EPSRC XXX and XXX (exascale)
+- EPSRC [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/) Tier 2 national supercomputing centre, which supports the UK-wide MMM community.
+- EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) which focuses on Improving Research Translation In Image Guided Surgery.
+- 
+
 
  
