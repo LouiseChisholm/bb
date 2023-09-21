@@ -62,8 +62,9 @@ I help researchers to identify potential funding sources for their research and 
 - EPSRC XXX and XXX (exascale)
 - EPSRC [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/) Tier 2 national supercomputing centre, which supports the UK-wide MMM community.
 - EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery.
-- UKRI Future Leader Fellowship: 
+- UKRI Future Leader Fellowships: [Dr Neil Oxtby](https://gtr.ukri.org/projects?ref=MR%2FS03546X%2F1) who is developing individualised artificial intelligence for medicine
 - UKRI funded Centre for Doctoral Training in [Foundational Artificial Intelligence](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd), UCL Computer Science
+- EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1) - Prof Miguel Rodrigues, Department of Electronic Engineering 
 - STFC Centre for Doctoral Training, [Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), UCL Astronomy and Physics
 - The French Government's Laboratory of Excellence (LabEx) program: [MEDALIS](https://ims.unistra.fr/medalis-en/), an interdisciplinary centre which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. 
 
