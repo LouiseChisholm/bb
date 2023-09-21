@@ -56,13 +56,16 @@ stages of their funding applications to EPSRC, STFC, NERC, MRC and BBSRC.
 spark collaborations across faculties e.g. AI, computational sciences
 
 
-I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I contribute by coordinating and developing large-scale strategic bids. I facilitate the development of shared research programs, and write non-techincal propsoal sections and prepare research teams for interviews with grant review panels.  Successes include: 
+I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Selected projects: 
 - STFC UK SKA Regional Centre (
 - Strategic Priorities Fund [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), which contirbutes to the Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) research programme.
 - EPSRC XXX and XXX (exascale)
 - EPSRC [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/) Tier 2 national supercomputing centre, which supports the UK-wide MMM community.
-- EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) which focuses on Improving Research Translation In Image Guided Surgery.
-- 
+- EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery.
+- UKRI Future Leader Fellowship: 
+- UKRI funded Centre for Doctoral Training in Foundational Artificial Intelligence, UCL Computer Science
+- STFC Centre for Doctoral Training, [Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), UCL Astronomy and Physics
+- The French Government Laboratory of Excellence (LABEX): [MEDALIS](https://ims.unistra.fr/medalis-en/), an interdisciplinary centre which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. 
 
 
  
