@@ -60,8 +60,8 @@ I help researchers to identify potential funding sources for their research and 
 - STFC UK SKA Regional Centre (
 - Strategic Priorities Fund [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), which contirbutes to the Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) research programme.
 - EPSRC XXX and XXX (exascale)
-- HDRUK How can routine linkage of medicines to health care outcomes enable a better understanding of the direct and indirect effects on COVID-19 on clinical pathways? (AAIMS)[https://www.hdruk.ac.uk/projects/using-medicines-data-to-understand-the-effects-of-covid-19-on-clinical-care/], Prof Reecha Sofat, UCL Institute of Health Informatics (now University of Liverpool).
-ard 
+- HDR UK Using medicines data to understand the effects of COVID – 19 on clinical care (AAIMS)[https://www.hdruk.ac.uk/projects/using-medicines-data-to-understand-the-effects-of-covid-19-on-clinical-care/], Prof Reecha Sofat, UCL Institute of Health Informatics (now University of Liverpool).
+- ard 
 - Various grants supporting the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry
 - EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1). PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering 
 - EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
