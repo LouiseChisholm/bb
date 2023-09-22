@@ -58,9 +58,10 @@ spark collaborations across faculties e.g. AI, computational sciences
 
 I help researchers to identify potential funding sources for their research and to develop strong applications with the best possible chance of success. I coordinate and develop large-scale strategic bids. I write non-techincal propsoal sections and prepare research teams for interviews with grant review panels. Projects that I contributed to include: 
 - STFC UK SKA Regional Centre (
-- Various grants supporting the development abnd growth of the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry
-- SPF [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), which contirbutes to the Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) research programme.
-- EPSRC XXX and XXX (exascale)
+- Various proposals supporting the development abnd growth of the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry. Thomas, Young, PAX.
+- Various proposals related to Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR): [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), [Software Environment for Actionable & VVUQ-evaluated Exascale Applications (SEAVEA)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W007711/1); [Learned Exascale Computational Imaging (LEXCI)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W007673/1)
+ 
+
 - HEC 
 
 - EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
