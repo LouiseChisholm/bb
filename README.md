@@ -60,17 +60,11 @@ I help researchers to identify potential funding sources for their research and 
 - STFC UK SKA Regional Centre (
 - Various proposals supporting the development abnd growth of the [Materials and Molecular Modelling (MMM) Hub](https://mmmhub.ac.uk/), a Tier 2 national supercomputing centre, which supports the UK-wide MMM community. PI: Prof Scott Woodley, UCL Chemistry. Thomas, Young, PAX.
 - Various proposals related to Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR): [UCL Adaptable Cluster](https://excalibur.ac.uk/projects/the-ucl-adaptable-cluster-project/), [Software Environment for Actionable & VVUQ-evaluated Exascale Applications (SEAVEA)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W007711/1); [Learned Exascale Computational Imaging (LEXCI)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W007673/1)
- 
-
-- HEC 
-
-- EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
-- Health Data Research UK (Using medicines data to understand the effects of COVID–19 on clinical care)[https://www.hdruk.ac.uk/projects/using-medicines-data-to-understand-the-effects-of-covid-19-on-clinical-care/], Prof Reecha Sofat, UCL Institute of Health Informatics (now University of Liverpool).
+ - EPSRC Research Software Engineer Fellowship: [Dr Tom Dowrick](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V052438/1) who is improving research translation in image guided surgery. 5 fellowships were funded nationally.
+- Health Data Research UK [Using medicines data to understand the effects of COVID–19 on clinical care](https://www.hdruk.ac.uk/projects/using-medicines-data-to-understand-the-effects-of-covid-19-on-clinical-care/), Prof Reecha Sofat, UCL Institute of Health Informatics (now University of Liverpool).
 - UKRI Future Leader Fellowship: [Dr Neil Oxtby](https://gtr.ukri.org/projects?ref=MR%2FS03546X%2F1) who is developing individualised artificial intelligence for medicine.
-- EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1). PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering 
-
 - UKRI Centre for Doctoral Training in [Foundational Artificial Intelligence](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd), PI: Prof David Barber, UCL Computer Science.
-- STFC Centre for Doctoral Training, [Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), PI: Prof Nikos Konstantinidis, UCL Astronomy and Physics.
+- STFC Centre for Doctoral Training in[Data Intensive Sciences](https://www.ucl.ac.uk/data-intensive-science-industry/study-here), PI: Prof Nikos Konstantinidis, UCL Astronomy and Physics.- EPSRC [Art Through the ICT Lens: Preservation and Conservation of Old Master Paintings](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1). PI: Prof Miguel Rodrigues, UCL Electronic and Electrical Engineering 
 - The French Government's Laboratory of Excellence (LabEx) program: [MEDALIS](https://ims.unistra.fr/medalis-en/), an interdisciplinary centre, which develops research projects relating to new drugs and breakthrough therapeutic innovations, by integrating technology transfer at a very early stage. PI: Prof Sylviane Muller, University of Strasbourg.
 
 
